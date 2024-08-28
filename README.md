@@ -1,2 +1,2 @@
 # alura
-## Desafio de crias um (de)criptador de mesangens.
+## Desafio de criar um (de)criptador de mesangens.
